@@ -2,7 +2,7 @@ import math
 
 pi = math.pi
 
-tolerancia = 1e-3 #Para el literal b cambiamos por 1e-10
+tolerancia = 1e-3
 
 aproximación  = 0
 n = 0
